@@ -6,4 +6,4 @@ This repository contains:
 - HTML version of the report "Titanic Dataset Investigation.html"
 - iPython notebook - used to generate the report "Titanic Dataset Investigation.ipynb"
 
-An online version of the report can be viewed here: [Online Report](http://ghunt03.github.io/TitanicDatasetInvestigation.html)
+An online version of the report can be viewed here: [Online Report](http://ghunt03.github.io/DAProjects/DAP02/TitanicDatasetInvestigation.html)
